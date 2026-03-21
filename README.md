@@ -29,7 +29,6 @@
   <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy icon" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas icon" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI icon" width="48" height="48" />
 </p>
 
 <p align="center">
@@ -40,8 +39,6 @@
 </p>
 
 ---
-
-### Data Engineering & Modern Data Stack
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark icon" width="48" height="48" />
@@ -63,11 +60,7 @@
 
 ---
 
-### Analytics, Experimentation & Product Tools
-
 <p align="center">
-  <img src="https://cdn.simpleicons.org/optimizely/2563EB" alt="Optimizely icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/amplitude/7C3AED" alt="Amplitude icon" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira icon" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/googleanalytics/E37400" alt="Google Analytics icon" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/googletagmanager/246FDB" alt="Google Tag Manager icon" width="48" height="48" />
@@ -75,17 +68,12 @@
 
 ---
 
-### MLOps, CI/CD & Platform Tools
-
 <p align="center">
-  <img src="https://cdn.simpleicons.org/kubeflow/326CE5" alt="Kubeflow icon" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/jenkins/D24939" alt="Jenkins icon" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab icon" width="48" height="48" />
 </p>
 
 ---
-
-### Product & Business Frameworks
 
 <p align="center">
   <sub><b>Product & Business Frameworks:</b></sub>
@@ -138,47 +126,3 @@
 - Developing practical analytics projects with **Python, SQL, and Power BI**
 - Expanding applied skills in **machine learning** and **business-oriented analytics**
 - Creating structured, recruiter-friendly repositories and documentation
-
----
-
-## Featured Project Areas
-
-### Analytics & BI
-
-- SQL-based analytical projects
-- Reporting logic and structured business queries
-- Dashboard-oriented thinking and KPI interpretation
-
-### Python & Automation
-
-- Utility tools and structured Python applications
-- CLI-based systems with maintainable architecture
-- Validation, workflow automation, and clean logic
-
-### AI & Machine Learning
-
-- Applied ML learning projects
-- AI workflow experimentation
-- Portfolio work at the intersection of analytics and intelligent systems
-
----
-
-## Highlighted Repositories
-
-- **assistant-bot** — structured Python project with layered logic, validation, and practical functionality
-- **sql-relational-analysis** — analytical SQL work focused on relationships, query design, and data interpretation
-- **portfolio-projects** — collection of practical projects demonstrating analytical and technical range
-- **rialto-analytics** — analytics-focused repository with emphasis on structured insight and presentation
-
----
-
-## Professional Direction
-
-I am interested in opportunities related to:
-
-- **Data Analyst**
-- **Business Analyst**
-- **BI / Reporting**
-- **AI / ML Projects**
-- **Analytics for Operations and Decision Support**
-- **Automation and Process Improvement**
