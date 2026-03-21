@@ -201,26 +201,119 @@
 
 ## Certificates
 
+<h3>Certificates</h3>
+
 <table>
   <tr>
+    <td colspan="2"><b>Data Analytics, BI & Databases</b></td>
+  </tr>
+  <tr>
+    <td><b>Google Advanced Data Analytics</b></td>
+    <td>Advanced data analytics, statistics, machine learning, predictive modeling, and large-scale dataset analysis</td>
+  </tr>
+  <tr>
+    <td><b>Google Data Analytics</b></td>
+    <td>Spreadsheets, SQL, Tableau, R, data preparation, analysis, visualization, and case-based analytical practice</td>
+  </tr>
+  <tr>
     <td><b>IBM Data Science Professional Certificate</b></td>
-    <td>Data analysis, Python, SQL, data wrangling, machine learning fundamentals</td>
+    <td>Data science methodology, Python, SQL, data analysis, visualization, machine learning, and applied project work</td>
   </tr>
   <tr>
-    <td><b>IBM Data Analyst Professional Certificate</b></td>
-    <td>Excel, SQL, Python, dashboarding, reporting, analytical workflows</td>
+    <td><b>Data Science Fundamentals with Python and SQL</b></td>
+    <td>Python, SQL, Jupyter notebooks, statistical analysis, relational databases, and foundational real-world data science practice</td>
   </tr>
   <tr>
-    <td><b>Google Project Management</b></td>
-    <td>Structured delivery, stakeholder communication, planning, execution discipline</td>
+    <td><b>Microsoft Power BI Data Analyst</b></td>
+    <td>Power BI, ETL in Power BI, data modeling, DAX, dashboards, reporting, and business intelligence workflows</td>
+  </tr>
+  <tr>
+    <td><b>Microsoft SQL Server</b></td>
+    <td>T-SQL, relational database design, transactions, indexing, performance optimization, execution plans, security, maintenance, and BI integration</td>
+  </tr>
+  <tr>
+    <td><b>Microsoft Business Analyst</b></td>
+    <td>Business analysis, requirements gathering, process modeling with Microsoft Visio, solution validation, stakeholder communication, and delivery fundamentals</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><b>AI, Generative AI & Agentic Systems</b></td>
   </tr>
   <tr>
     <td><b>Google AI Essentials</b></td>
-    <td>Applied AI literacy, practical AI usage, workflow productivity</td>
+    <td>Applied AI literacy, responsible AI usage, prompting, productivity enhancement, and practical AI workflows</td>
   </tr>
   <tr>
-    <td><b>MSc in Artificial Intelligence and Machine Learning</b></td>
-    <td>Advanced academic development in AI, machine learning, and computational thinking</td>
+    <td><b>Google Prompting Essentials</b></td>
+    <td>Prompt design, advanced prompting techniques, summarization, AI-assisted task execution, and workflow productivity</td>
+  </tr>
+  <tr>
+    <td><b>AI Agent Developer</b></td>
+    <td>AI agents, agentic AI systems, Python-based workflows, prompt engineering, custom AI assistants, memory systems, and practical applied AI development</td>
+  </tr>
+  <tr>
+    <td><b>Generative AI Leader</b></td>
+    <td>Generative AI concepts, AI/ML foundations, responsible AI, gen AI applications, AI agents, and business transformation with Google Cloud</td>
+  </tr>
+  <tr>
+    <td><b>Generative AI Leadership &amp; Strategy</b></td>
+    <td>Leadership applications of generative AI, strategic adoption, workflow acceleration, and AI-enabled business problem solving</td>
+  </tr>
+  <tr>
+    <td><b>Organizational Strategy with Generative AI &amp; AI Agents</b></td>
+    <td>Organizational AI strategy, agentic workflows, AI labor design, process transformation, productivity enhancement, and leadership application of AI systems</td>
+  </tr>
+  <tr>
+    <td><b>AI Basics</b></td>
+    <td>Introductory AI course completed with strong result; foundational understanding of AI concepts and practical orientation</td>
+  </tr>
+  <tr>
+    <td><b>ШІ для бізнесу</b></td>
+    <td>AI for business; practical orientation toward applying AI tools and approaches in business contexts</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><b>Business, Project & Strategy</b></td>
+  </tr>
+  <tr>
+    <td><b>Google Project Management Professional Certificate</b></td>
+    <td>Project initiation, planning, execution, agile delivery, stakeholder coordination, documentation, and structured project workflows</td>
+  </tr>
+  <tr>
+    <td><b>Oxford Course in Introduction to Advanced Business Analytics with AI</b></td>
+    <td>Oxford Saïd Online course recognized for 1 academic credit in partial fulfillment of the MSc in Computer Science</td>
+  </tr>
+  <tr>
+    <td><b>Oxford Course in Future Ready Leadership: Insights, Models and Practices</b></td>
+    <td>Oxford Saïd Online course recognized for 1 academic credit in partial fulfillment of the MSc in Computer Science</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><b>Marketing, Analytics & Digital</b></td>
+  </tr>
+  <tr>
+    <td><b>Google Analytics Certification</b></td>
+    <td>Google Analytics certification with active validity period and certified platform knowledge</td>
+  </tr>
+  <tr>
+    <td><b>AI-Powered Performance Ads Certification</b></td>
+    <td>Applied knowledge of AI-powered performance advertising workflows and certification in performance ads context</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><b>Language & Additional Credentials</b></td>
+  </tr>
+  <tr>
+    <td><b>EF SET English Certificate</b></td>
+    <td>C1 Advanced (65/100); Reading: C2 Proficient, Listening: B2 Upper Intermediate</td>
+  </tr>
+  <tr>
+    <td><b>Fundamentals of Copyright in Creative Industries</b></td>
+    <td>Certificate uploaded; title confirmed, but detailed program content could not be automatically extracted from the file</td>
+  </tr>
+  <tr>
+    <td><b>FOP</b></td>
+    <td>Certificate uploaded, but the PDF content could not be automatically read; exact scope cannot be confirmed from the file text extraction</td>
   </tr>
 </table>
 
