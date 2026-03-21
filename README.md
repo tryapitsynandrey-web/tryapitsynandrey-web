@@ -36,14 +36,6 @@
   <img src="https://cdn.simpleicons.org/gitlab?viewbox=auto&size=48" alt="GitLab icon" />
 </p>
 
-<p align="center">
-  <sub><b>Also working with:</b> PEP 8 • Pickle • Matplotlib • SciPy • statsmodels • Spark Streaming • Apache Beam • Cloud-Native ETL • Power BI • AI-powered visualization tools • SCD • CDC • Data Warehouses • Data Lakes • Optimizely • Amplitude • Kubeflow</sub>
-</p>
-
-<p align="center">
-  <sub><b>Product & Business Frameworks:</b> Product Vision • Value Proposition • Customer Development • Persona Framework • Agile • Customer Journey Map • Product Backlog • North Star Framework • AARRR • Business Model Canvas • Unit Economics • Pitch Deck</sub>
-</p>
-
 ## Certificates
 
 <table>
