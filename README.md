@@ -7,91 +7,194 @@
 <div align="center">
   <table align="center">
     <tr>
+      <td colspan="6" align="left"><b>Programming Languages</b></td>
+    </tr>
+    <tr>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=48" width="52" height="52" alt="Python" /><br /><sub><b>Python</b></sub>
+        <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=48" width="52" height="52" alt="Python" /><br />
+        <sub><b>Python</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/git?viewbox=auto&size=48" width="52" height="52" alt="Git" /><br /><sub><b>Git</b></sub>
+        <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logoColor=white" height="52" alt="SQL" /><br />
+        <sub><b>SQL</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/github?viewbox=auto&size=48" width="52" height="52" alt="GitHub" /><br /><sub><b>GitHub</b></sub>
+        <img src="https://cdn.simpleicons.org/gnubash?viewbox=auto&size=48" width="52" height="52" alt="Bash" /><br />
+        <sub><b>Bash</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VS Code" /><br /><sub><b>VS Code</b></sub>
+        <img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=48" width="52" height="52" alt="JavaScript" /><br />
+        <sub><b>JavaScript</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/linux?viewbox=auto&size=48" width="52" height="52" alt="Linux" /><br /><sub><b>Linux</b></sub>
+        <img src="https://cdn.simpleicons.org/typescript?viewbox=auto&size=48" width="52" height="52" alt="TypeScript" /><br />
+        <sub><b>TypeScript</b></sub>
+      </td>
+      <td align="center" width="110"></td>
+    </tr>
+
+    <tr>
+      <td colspan="6" align="left"><b>Web Foundations</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/html5?viewbox=auto&size=48" width="52" height="52" alt="HTML5" /><br />
+        <sub><b>HTML5</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/docker?viewbox=auto&size=48" width="52" height="52" alt="Docker" /><br /><sub><b>Docker</b></sub>
+        <img src="https://cdn.simpleicons.org/css?viewbox=auto&size=48" width="52" height="52" alt="CSS3" /><br />
+        <sub><b>CSS3</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/mysql?viewbox=auto&size=48" width="52" height="52" alt="MySQL" /><br /><sub><b>MySQL</b></sub>
+        <img src="https://cdn.simpleicons.org/react?viewbox=auto&size=48" width="52" height="52" alt="React" /><br />
+        <sub><b>React</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=48" width="52" height="52" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub>
+        <img src="https://cdn.simpleicons.org/nodedotjs?viewbox=auto&size=48" width="52" height="52" alt="Node.js" /><br />
+        <sub><b>Node.js</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logoColor=white" height="52" alt="SQL" /><br /><sub><b>SQL</b></sub>
+        <img src="https://cdn.simpleicons.org/nextdotjs?viewbox=auto&size=48" width="52" height="52" alt="Next.js" /><br />
+        <sub><b>Next.js</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/tailwindcss?viewbox=auto&size=48" width="52" height="52" alt="Tailwind CSS" /><br />
+        <sub><b>Tailwind</b></sub>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="6" align="left"><b>Core Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/git?viewbox=auto&size=48" width="52" height="52" alt="Git" /><br />
+        <sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/github?viewbox=auto&size=48" width="52" height="52" alt="GitHub" /><br />
+        <sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VS Code" /><br />
+        <sub><b>VS Code</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/linux?viewbox=auto&size=48" width="52" height="52" alt="Linux" /><br />
+        <sub><b>Linux</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/docker?viewbox=auto&size=48" width="52" height="52" alt="Docker" /><br />
+        <sub><b>Docker</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/postman?viewbox=auto&size=48" width="52" height="52" alt="Postman" /><br />
+        <sub><b>Postman</b></sub>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="6" align="left"><b>Data & BI</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/mysql?viewbox=auto&size=48" width="52" height="52" alt="MySQL" /><br />
+        <sub><b>MySQL</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=48" width="52" height="52" alt="PostgreSQL" /><br />
+        <sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/jupyter?viewbox=auto&size=48" width="52" height="52" alt="Jupyter" /><br />
+        <sub><b>Jupyter</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/googlecolab?viewbox=auto&size=48" width="52" height="52" alt="Google Colab" /><br />
+        <sub><b>Colab</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/numpy?viewbox=auto&size=48" width="52" height="52" alt="NumPy" /><br />
+        <sub><b>NumPy</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/pandas?viewbox=auto&size=48" width="52" height="52" alt="Pandas" /><br />
+        <sub><b>Pandas</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/jupyter?viewbox=auto&size=48" width="52" height="52" alt="Jupyter" /><br /><sub><b>Jupyter</b></sub>
+        <img src="https://cdn.simpleicons.org/scikitlearn?viewbox=auto&size=48" width="52" height="52" alt="scikit-learn" /><br />
+        <sub><b>scikit-learn</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/googlecolab?viewbox=auto&size=48" width="52" height="52" alt="Google Colab" /><br /><sub><b>Colab</b></sub>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="52" alt="Power BI" /><br />
+        <sub><b>Power BI</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/numpy?viewbox=auto&size=48" width="52" height="52" alt="NumPy" /><br /><sub><b>NumPy</b></sub>
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="52" alt="Excel" /><br />
+        <sub><b>Excel</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/pandas?viewbox=auto&size=48" width="52" height="52" alt="Pandas" /><br /><sub><b>Pandas</b></sub>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="52" alt="Tableau" /><br />
+        <sub><b>Tableau</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/scikitlearn?viewbox=auto&size=48" width="52" height="52" alt="scikit-learn" /><br /><sub><b>scikit-learn</b></sub>
+        <img src="https://cdn.simpleicons.org/googlebigquery?viewbox=auto&size=48" width="52" height="52" alt="BigQuery" /><br />
+        <sub><b>BigQuery</b></sub>
       </td>
-      <td align="center" width="110">
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="52" alt="Power BI" /><br /><sub><b>Power BI</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/apachespark?viewbox=auto&size=48" width="52" height="52" alt="Apache Spark" /><br /><sub><b>Spark</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/apacheairflow?viewbox=auto&size=48" width="52" height="52" alt="Apache Airflow" /><br /><sub><b>Airflow</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="52" alt="dbt" /><br /><sub><b>dbt</b></sub>
-      </td>
+      <td align="center" width="110"></td>
+    </tr>
+
+    <tr>
+      <td colspan="6" align="left"><b>Data Workflow & AI</b></td>
     </tr>
     <tr>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/jira?viewbox=auto&size=48" width="52" height="52" alt="Jira" /><br /><sub><b>Jira</b></sub>
+        <img src="https://cdn.simpleicons.org/apachespark?viewbox=auto&size=48" width="52" height="52" alt="Apache Spark" /><br />
+        <sub><b>Spark</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/googleanalytics?viewbox=auto&size=48" width="52" height="52" alt="Google Analytics" /><br /><sub><b>Analytics</b></sub>
+        <img src="https://cdn.simpleicons.org/apacheairflow?viewbox=auto&size=48" width="52" height="52" alt="Apache Airflow" /><br />
+        <sub><b>Airflow</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/postman?viewbox=auto&size=48" width="52" height="52" alt="Postman" /><br /><sub><b>Postman</b></sub>
+        <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="52" alt="dbt" /><br />
+        <sub><b>dbt</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/githubactions?viewbox=auto&size=48" width="52" height="52" alt="GitHub Actions" /><br /><sub><b>GH Actions</b></sub>
+        <img src="https://cdn.simpleicons.org/pytorch?viewbox=auto&size=48" width="52" height="52" alt="PyTorch" /><br />
+        <sub><b>PyTorch</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/googlebigquery?viewbox=auto&size=48" width="52" height="52" alt="BigQuery" /><br /><sub><b>BigQuery</b></sub>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="52" alt="OpenAI" /><br />
+        <sub><b>OpenAI</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/pytorch?viewbox=auto&size=48" width="52" height="52" alt="PyTorch" /><br /><sub><b>PyTorch</b></sub>
+        <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge" height="52" alt="Kubeflow" /><br />
+        <sub><b>Kubeflow</b></sub>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="6" align="left"><b>Analytics & Collaboration</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/jira?viewbox=auto&size=48" width="52" height="52" alt="Jira" /><br />
+        <sub><b>Jira</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="52" alt="Tableau" /><br /><sub><b>Tableau</b></sub>
+        <img src="https://cdn.simpleicons.org/googleanalytics?viewbox=auto&size=48" width="52" height="52" alt="Google Analytics" /><br />
+        <sub><b>Analytics</b></sub>
       </td>
       <td align="center" width="110">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="52" alt="OpenAI" /><br /><sub><b>OpenAI</b></sub>
+        <img src="https://cdn.simpleicons.org/githubactions?viewbox=auto&size=48" width="52" height="52" alt="GitHub Actions" /><br />
+        <sub><b>GH Actions</b></sub>
       </td>
-      <td align="center" width="110">
-        <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge" height="52" alt="Kubeflow" /><br /><sub><b>Kubeflow</b></sub>
-      </td>
+      <td align="center" width="110"></td>
+      <td align="center" width="110"></td>
+      <td align="center" width="110"></td>
     </tr>
   </table>
 </div>
