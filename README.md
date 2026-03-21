@@ -307,14 +307,7 @@
     <td><b>EF SET English Certificate</b></td>
     <td>C1 Advanced (65/100); Reading: C2 Proficient, Listening: B2 Upper Intermediate</td>
   </tr>
-  <tr>
-    <td><b>Fundamentals of Copyright in Creative Industries</b></td>
-    <td>Certificate uploaded; title confirmed, but detailed program content could not be automatically extracted from the file</td>
-  </tr>
-  <tr>
-    <td><b>FOP</b></td>
-    <td>Certificate uploaded, but the PDF content could not be automatically read; exact scope cannot be confirmed from the file text extraction</td>
-  </tr>
+  
 </table>
 
 ---
