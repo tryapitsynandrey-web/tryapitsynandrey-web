@@ -33,7 +33,7 @@
       <td align="center" width="110"></td>
     </tr>
 
-    <tr>
+  <tr>
       <td colspan="6" align="left"><b>Web Foundations</b></td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@
       </td>
     </tr>
 
-    <tr>
+  <tr>
       <td colspan="6" align="left"><b>Core Tools</b></td>
     </tr>
     <tr>
@@ -93,7 +93,7 @@
       </td>
     </tr>
 
-    <tr>
+  <tr>
       <td colspan="6" align="left"><b>Data & BI</b></td>
     </tr>
     <tr>
@@ -146,7 +146,7 @@
       <td align="center" width="110"></td>
     </tr>
 
-    <tr>
+  <tr>
       <td colspan="6" align="left"><b>Data Workflow & AI</b></td>
     </tr>
     <tr>
@@ -176,7 +176,7 @@
       </td>
     </tr>
 
-    <tr>
+  <tr>
       <td colspan="6" align="left"><b>Analytics & Collaboration</b></td>
     </tr>
     <tr>
