@@ -214,19 +214,6 @@ I build portfolio-driven projects with an emphasis on:
 
 ---
 
-## GitHub Metrics
-
-<p align="center">
-  <img alt="GitHub stats for tryapitsynandrey-web" height="180em" src="https://github-readme-stats.vercel.app/api?username=tryapitsynandrey-web&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img alt="Top languages for tryapitsynandrey-web" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryapitsynandrey-web&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="GitHub contribution streak for tryapitsynandrey-web" src="https://streak-stats.demolab.com?user=tryapitsynandrey-web&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Professional Direction
 
 I am interested in opportunities related to:
