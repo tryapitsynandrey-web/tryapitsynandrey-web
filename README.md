@@ -7,26 +7,8 @@
 ### Programming, Development & Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,docker,linux,bash,anaconda,sklearn&perline=5" alt="Python, Git, GitHub, VS Code, MySQL, Docker, Linux, Bash, Anaconda, scikit-learn icons" />
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" alt="Google Colab icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/spyderide/FF0000" alt="Spyder icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="Kaggle icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Apache Spark icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="Apache Kafka icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/apacheflink/E6526F" alt="Apache Flink icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/databricks/EF3E42" alt="Databricks icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" alt="Google Analytics icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/googletagmanager/246FDB" alt="Google Tag Manager icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/jenkins/D24939" alt="Jenkins icon" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab icon" width="48" height="48" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,docker,linux,bash,anaconda,sklearn,googlecolab,spyderide,kaggle,numpy,pandas,scikitlearn,apachespark,apachekafka,apacheairflow,apacheflink,dbt,databricks,snowflake,jira,googleanalytics,googletagmanager,jenkins,gitlab&perline=5" alt="Python, Git, GitHub, VS Code, MySQL, Docker, Linux, Bash, Anaconda, scikit-learn icons, Google Colab icon, Spyder icon, Kaggle icon, NumPy icon, Pandas icon, scikit-learn icon, Apache Spark icon, Apache Kafka icon, Apache Airflow icon, Apache Flink icon, dbt icon, Databricks icon, Snowflake icon, Jira icon, Google Analytics icon, Google Tag Manager icon, Jenkins icon, GitLab icon" />
+</p> 
 
 <p align="center">
   <sub><b>Also working with:</b> PEP 8 • Pickle • Matplotlib • SciPy • statsmodels • Spark Streaming • Apache Beam • Cloud-Native ETL • Power BI • AI-powered visualization tools • SCD • CDC • Data Warehouses • Data Lakes • Optimizely • Amplitude • Kubeflow</sub>
