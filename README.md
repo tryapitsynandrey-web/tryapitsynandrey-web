@@ -7,7 +7,7 @@
 ### Programming, Development & Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,docker,linux,bash,anaconda,sklearn,googlecolab,spyderide,kaggle,numpy,pandas,scikitlearn,apachespark,apachekafka,apacheairflow,apacheflink,dbt,databricks,snowflake,jira,googleanalytics,googletagmanager,jenkins,gitlab&perline=5" alt="Python, Git, GitHub, VS Code, MySQL, Docker, Linux, Bash, Anaconda, scikit-learn icons, Google Colab icon, Spyder icon, Kaggle icon, NumPy icon, Pandas icon, scikit-learn icon, Apache Spark icon, Apache Kafka icon, Apache Airflow icon, Apache Flink icon, dbt icon, Databricks icon, Snowflake icon, Jira icon, Google Analytics icon, Google Tag Manager icon, Jenkins icon, GitLab icon" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,docker,linux,bash,anaconda,sklearn,googlecolab,spyderide,kaggle,numpy,pandas,scikitlearn,apachespark,apachekafka,apacheairflow,apacheflink,dbt,databricks,snowflake,jira,googleanalytics,googletagmanager,jenkins,gitlab&perline=5" alt="Python, Git, GitHub, VS Code, MySQL, Docker, Linux, Bash, Anaconda, scikit-learn, Google Colab, Spyder, Kaggle, NumPy, Pandas, scikit-learn, Apache Spark, Apache Kafka, Apache Airflow, Apache Flink, dbt, Databricks, Snowflake, Jira, Google Analytics, Google Tag Manager, Jenkins, GitLab" />
 </p> 
 
 <p align="center">
