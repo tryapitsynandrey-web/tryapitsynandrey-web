@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
-<h1 align="center">Andrew Tryapitsyn</h1>
+<h1 align="center">Andrew Triapitsyn</h1>
 
 <h3 align="center">
 Backend Engineering • AI & Data Systems • Product Analytics • GenAI Evaluation
