@@ -1,13 +1,14 @@
 <!-- markdownlint-disable MD033 MD041 -->
+
 <h1 align="center">Andrew Tryapitsyn</h1>
 
 <h3 align="center">
-AI Product Analyst • GenAI Evaluation • Data Analytics • Business Intelligence • Digital Operations
+Backend Engineering • AI & Data Systems • Product Analytics • GenAI Evaluation
 </h3>
 
 <p align="center">
-  MSc Computer Science student focused on Artificial Intelligence & Machine Learning.<br />
-  Building practical projects across AI, analytics, automation, product insights, and business intelligence.
+MSc Computer Science student specializing in Artificial Intelligence & Machine Learning.<br />
+Building production-style backend systems, analytics platforms, AI workflows, and data-driven business solutions.
 </p>
 
 <p align="center">
@@ -19,37 +20,47 @@ AI Product Analyst • GenAI Evaluation • Data Analytics • Business Intellig
 
 ## About Me
 
-I am an AI, data analytics, and digital business professional with experience across **GenAI evaluation, operational analytics, business intelligence, process improvement, and customer-facing service environments**.
+I am an AI, backend systems, and data analytics professional with experience across **GenAI evaluation, backend engineering, business intelligence, operational analytics, process improvement, and digital operations**.
 
-My recent experience includes working as a **Gen AI Annotator on a Meta vendor project through Covalen**, where I evaluated AI-generated and user-facing content against detailed quality, safety, and policy guidelines. This strengthened my practical understanding of **human-in-the-loop AI evaluation, LLM output quality, structured feedback, decision consistency, user intent, quality signals, and policy-aware review workflows**.
+My recent experience includes working as a **Gen AI Annotator on a Meta vendor project through Covalen**, where I evaluated AI-generated and user-facing content against detailed quality, safety, and policy guidelines. This strengthened my practical understanding of:
 
-Alongside this, I am pursuing an **MSc in Computer Science with a focus on Artificial Intelligence and Machine Learning** and building practical skills in:
+- human-in-the-loop AI evaluation
+- LLM output quality assessment
+- structured feedback systems
+- decision consistency
+- policy-aware review workflows
+- Trust & Safety operations
+- content quality signals
+- user intent interpretation
 
-- SQL and relational data analysis
-- Python-based analytics and automation
-- Power BI dashboards and reporting
-- AI-assisted workflows and prompt engineering
-- Product analytics concepts
-- Data quality and business intelligence
-- Trust & Safety and content quality evaluation
-- Digital business analysis and process improvement
+Alongside this, I am pursuing an **MSc in Computer Science focused on Artificial Intelligence & Machine Learning** while building practical engineering projects across:
 
-My current direction is focused on roles at the intersection of **AI, data, product analytics, business intelligence, Trust & Safety, and digital operations**.
+- event-driven backend systems
+- distributed architectures
+- product analytics platforms
+- business intelligence workflows
+- SQL and relational analytics
+- observability and monitoring
+- AI-assisted workflows
+- automation and process optimization
+
+My portfolio combines **backend engineering, AI systems, analytics, and operational thinking** with a strong focus on practical architecture, scalability, maintainability, and business value.
 
 ---
 
-
 ## Current Focus
 
-- **AI and GenAI Evaluation:** LLM output quality, structured feedback, prompt engineering, and AI-assisted workflows
+- **Backend & Distributed Systems:** Java, Spring Boot, Kafka, PostgreSQL, Docker, observability, and event-driven architectures
 
-- **Data Analytics and BI:** Python, SQL, Power BI, dashboards, KPI reporting, and data quality
+- **AI & GenAI Evaluation:** LLM quality assessment, structured evaluation workflows, prompt engineering, and AI-assisted systems
 
-- **Product Analytics:** funnels, retention, segmentation, behavioural insights, and metric definitions
+- **Data Analytics & Business Intelligence:** SQL, Python, Power BI, KPI reporting, dashboards, and data quality workflows
 
-- **Trust & Safety Analytics:** content quality signals, user safety, policy-risk concepts, and classification consistency
+- **Product Analytics:** funnels, retention, segmentation, behavioural insights, and metric-driven product thinking
 
-- **Repository Quality:** clean documentation, reproducible project structure, and recruiter-friendly README files
+- **Trust & Safety Analytics:** content quality signals, classification consistency, policy-risk concepts, and moderation workflows
+
+- **Repository Engineering:** clean architecture, reproducible infrastructure, integration testing, and recruiter-friendly technical documentation
 
 ---
 
@@ -57,16 +68,41 @@ My current direction is focused on roles at the intersection of **AI, data, prod
 
 | Area | Focus |
 |---|---|
-| **AI & GenAI Evaluation** | LLM output assessment, human-in-the-loop review, prompt engineering, AI-assisted workflows, quality signals |
-| **Product Analytics** | User behaviour, funnels, retention, segmentation, product metrics, dashboard thinking |
-| **Data Analytics & BI** | SQL, Python, Power BI, reporting, KPI tracking, data quality, dashboards |
-| **Trust & Safety** | Content quality, policy-risk awareness, sensitive content workflows, classification consistency |
-| **Business Analysis** | Requirements thinking, process mapping, stakeholder communication, workflow improvement |
-| **Operations** | Service delivery, incident handling, process improvement, team coordination, operational reporting |
+| **Backend Engineering** | Event-driven systems, REST APIs, Kafka workflows, observability, Docker, clean architecture |
+| **AI & GenAI Evaluation** | LLM output assessment, human-in-the-loop review, prompt engineering, AI-assisted workflows |
+| **Product Analytics** | User behaviour, funnels, retention, segmentation, KPI frameworks, product metrics |
+| **Data Analytics & BI** | SQL, Python, Power BI, reporting, KPI tracking, dashboards, data quality |
+| **Trust & Safety** | Content quality, moderation workflows, policy-risk awareness, classification consistency |
+| **Business Analysis** | Process mapping, workflow improvement, stakeholder communication, operational analysis |
+| **Operations & Delivery** | Incident handling, service operations, escalation workflows, reporting, coordination |
+
+---
+
+# Featured Engineering Projects
+
+| Project | Description |
+|---|---|
+| **PulseStream** | Event-driven backend analytics platform built with Java 21, Spring Boot, Kafka, PostgreSQL, Testcontainers, Docker, and Clean Architecture principles |
+| **SentinelFlow** | Business observability and monitoring engine focused on asynchronous workflows, alerting pipelines, validation systems, and operational visibility |
+| **ProductPulse** | AI-powered business product analytics decision engine focused on KPI intelligence, churn analysis, segmentation, and recommendation logic |
+| **SQL Relational Analysis** | Advanced SQL analytics repository using PostgreSQL, relational modeling, business metrics, validation pipelines, and analytical reporting |
 
 ---
 
 ## My Stack and Tools
+
+### Backend & Distributed Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge" alt="Testcontainers" />
+  <img src="https://img.shields.io/badge/Micrometer-2563EB?style=for-the-badge" alt="Micrometer" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ### Programming & Query Languages
 
@@ -84,9 +120,9 @@ My current direction is focused on roles at the intersection of **AI, data, prod
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
 </p>
 
 ### Databases & Data Platforms
@@ -109,37 +145,14 @@ My current direction is focused on roles at the intersection of **AI, data, prod
   <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering" />
 </p>
 
-### Product Analytics & Digital Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
-  <img src="https://img.shields.io/badge/Product_Analytics-2563EB?style=for-the-badge" alt="Product Analytics" />
-  <img src="https://img.shields.io/badge/Funnels-16A34A?style=for-the-badge" alt="Funnels" />
-  <img src="https://img.shields.io/badge/Segmentation-F97316?style=for-the-badge" alt="Segmentation" />
-  <img src="https://img.shields.io/badge/Dashboards-0891B2?style=for-the-badge" alt="Dashboards" />
-  <img src="https://img.shields.io/badge/AB_Testing-9333EA?style=for-the-badge" alt="A/B Testing" />
-</p>
-
 ### Development, Collaboration & Workflow
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-</p>
-
-### Web Foundations
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ---
@@ -148,138 +161,58 @@ My current direction is focused on roles at the intersection of **AI, data, prod
 
 | Role | Focus |
 |---|---|
-| **Gen AI Annotator — Covalen, Client: Meta** | GenAI evaluation, AI-generated content review, quality guidelines, structured feedback, user intent, content quality, decision consistency |
-| **Duty Manager — Powerscourt Springs Health Farm** | Operations leadership, process improvement, customer experience, workflow optimisation, incident handling, team coordination |
-| **Duty Manager / Night Supervisor — Wilton Hotel Bray** | Reporting accuracy, operational continuity, escalation handling, audits, service quality, staff onboarding |
-| **Junior Database & Python Specialist** | SQL, Python automation, data cleaning, relational databases, operational reporting, data quality checks |
-| **Front Desk Receptionist — International Hospitality Roles** | Customer-facing operations, communication, service delivery, reporting, issue resolution |
+| **Gen AI Annotator — Covalen (Client: Meta)** | GenAI evaluation, AI-generated content review, structured quality assessment, user intent analysis, policy-aware workflows |
+| **Duty Manager — Powerscourt Springs Health Farm** | Operations leadership, process improvement, incident handling, workflow optimization, customer operations |
+| **Duty Manager / Night Supervisor — Wilton Hotel Bray** | Operational continuity, reporting, escalation management, audits, onboarding, service quality |
+| **Junior Database & Python Specialist** | SQL, Python automation, relational databases, data validation, reporting, analytics workflows |
 
 ---
 
 ## Certificates
 
-<table>
-  <tr>
-    <td colspan="2"><b>Product Analytics, Data Analytics, BI & Databases</b></td>
-  </tr>
-  <tr>
-    <td><b>Google Advanced Data Analytics</b></td>
-    <td>Advanced analytics, statistics, machine learning foundations, predictive modeling, and analytical project work</td>
-  </tr>
-  <tr>
-    <td><b>Google Data Analytics</b></td>
-    <td>Data preparation, spreadsheets, SQL, Tableau, R, visualization, reporting, and case-based analysis</td>
-  </tr>
-  <tr>
-    <td><b>IBM Data Science Professional Certificate</b></td>
-    <td>Data science methodology, Python, SQL, data analysis, visualization, machine learning, and applied projects</td>
-  </tr>
-  <tr>
-    <td><b>Data Science Fundamentals with Python and SQL</b></td>
-    <td>Python, SQL, Jupyter notebooks, statistical analysis, relational databases, and foundational data science practice</td>
-  </tr>
-  <tr>
-    <td><b>Microsoft Power BI Data Analyst</b></td>
-    <td>Power BI, data modeling, DAX, dashboards, reporting, data transformation, and business intelligence workflows</td>
-  </tr>
-  <tr>
-    <td><b>Microsoft SQL Server</b></td>
-    <td>T-SQL, relational database design, transactions, indexing, query optimization, execution plans, and BI integration</td>
-  </tr>
-  <tr>
-    <td><b>Google Analytics Certification</b></td>
-    <td>Google Analytics platform knowledge, digital measurement, audience analysis, event concepts, and reporting</td>
-  </tr>
-  <tr>
-    <td colspan="2"><b>AI, Generative AI, LLMs & Agentic Systems</b></td>
-  </tr>
-  <tr>
-    <td><b>Google AI Essentials</b></td>
-    <td>Applied AI literacy, responsible AI usage, prompting, productivity enhancement, and practical AI workflows</td>
-  </tr>
-  <tr>
-    <td><b>Google Prompting Essentials</b></td>
-    <td>Prompt design, advanced prompting techniques, summarization, AI-assisted task execution, and workflow productivity</td>
-  </tr>
-  <tr>
-    <td><b>AI Agent Developer</b></td>
-    <td>AI agents, agentic AI systems, Python-based workflows, prompt engineering, custom AI assistants, memory systems, and applied AI development</td>
-  </tr>
-  <tr>
-    <td><b>Generative AI Leader</b></td>
-    <td>Generative AI concepts, AI/ML foundations, responsible AI, GenAI applications, AI agents, and business transformation with Google Cloud</td>
-  </tr>
-  <tr>
-    <td><b>Generative AI Leadership &amp; Strategy</b></td>
-    <td>Leadership applications of generative AI, strategic adoption, workflow acceleration, and AI-enabled business problem solving</td>
-  </tr>
-  <tr>
-    <td><b>Organizational Strategy with Generative AI &amp; AI Agents</b></td>
-    <td>Organizational AI strategy, agentic workflows, AI labor design, process transformation, productivity enhancement, and leadership use of AI systems</td>
-  </tr>
-  <tr>
-    <td><b>AI for Business</b></td>
-    <td>Applying AI tools and methods to business processes, productivity, decision-making, and workflow improvement</td>
-  </tr>
-  <tr>
-    <td colspan="2"><b>Business Analysis, Project Management & Strategy</b></td>
-  </tr>
-  <tr>
-    <td><b>Microsoft Business Analyst</b></td>
-    <td>Business analysis, requirements gathering, process modeling, solution validation, stakeholder communication, and delivery fundamentals</td>
-  </tr>
-  <tr>
-    <td><b>Google Project Management Professional Certificate</b></td>
-    <td>Project initiation, planning, execution, agile delivery, stakeholder coordination, documentation, and structured workflows</td>
-  </tr>
-  <tr>
-    <td><b>Oxford Course in Introduction to Advanced Business Analytics with AI</b></td>
-    <td>Oxford Saïd Online course recognized for 1 academic credit in partial fulfillment of the MSc in Computer Science</td>
-  </tr>
-  <tr>
-    <td><b>Oxford Course in Future Ready Leadership: Insights, Models and Practices</b></td>
-    <td>Oxford Saïd Online course recognized for 1 academic credit in partial fulfillment of the MSc in Computer Science</td>
-  </tr>
-  <tr>
-    <td colspan="2"><b>Marketing, Digital Analytics & Growth</b></td>
-  </tr>
-  <tr>
-    <td><b>AI-Powered Performance Ads Certification</b></td>
-    <td>AI-powered performance advertising, digital campaign concepts, growth measurement, and online marketing workflows</td>
-  </tr>
-  <tr>
-    <td colspan="2"><b>Language</b></td>
-  </tr>
-  <tr>
-    <td><b>EF SET English Certificate</b></td>
-    <td>C1 Advanced (65/100); Reading: C2 Proficient, Listening: B2 Upper Intermediate</td>
-  </tr>
-</table>
+- Google Advanced Data Analytics Professional Certificate
+- Google Data Analytics Professional Certificate
+- IBM Data Science Professional Certificate
+- Microsoft Power BI Data Analyst
+- Microsoft SQL Server Certification
+- Google AI Essentials
+- Google Prompting Essentials
+- AI Agent Developer
+- Generative AI Leadership & Strategy
+- Organizational Strategy with Generative AI & AI Agents
+- Google Project Management Professional Certificate
+- Oxford Saïd — Advanced Business Analytics with AI
+- Oxford Saïd — Future Ready Leadership
+- EF SET English Certificate (C1)
 
 ---
 
 ## Portfolio Direction
 
-I am currently developing repositories focused on:
+I am currently building repositories focused on:
 
-- **AI product analytics**: product metrics, segmentation, funnels, retention concepts, and insight narratives
-- **Business intelligence**: Power BI dashboards, KPI reporting, SQL-driven analysis, and executive summaries
-- **Data quality**: validation checks, cleaning pipelines, reproducible notebooks, and documentation
-- **GenAI workflows**: prompt engineering, AI-assisted analysis, structured evaluation, and automation
-- **Trust & Safety analytics**: content quality signals, policy-risk concepts, classification consistency, and evaluation workflows
-- **Digital operations**: process improvement, operational reporting, and workflow optimisation
+- backend engineering and distributed systems
+- event-driven architectures
+- AI product analytics
+- observability and operational intelligence
+- business intelligence and KPI systems
+- SQL-driven analytics
+- GenAI evaluation workflows
+- Trust & Safety analytics
+- automation and workflow optimization
 
 ---
 
 ## Career Direction
 
-I am focused on building a career across:
+I am focused on opportunities across:
 
-- **AI Product Analytics**
-- **Data Analytics / Business Intelligence**
-- **GenAI Evaluation**
-- **Trust & Safety Analytics**
-- **Digital Business Analysis**
-- **Operations Analytics**
+- Backend Engineering
+- AI & Data Systems
+- Product Analytics
+- Business Intelligence
+- GenAI Evaluation
+- Trust & Safety Analytics
+- Digital Business Analysis
 
-My goal is to combine analytical thinking, technical skills, AI literacy, and operational experience to help teams make better decisions, improve processes, and build more reliable digital products.
+My long-term goal is to combine backend engineering, AI systems, analytics, and operational thinking to help organizations build scalable, reliable, and intelligent digital platforms.
